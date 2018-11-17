@@ -1,0 +1,22 @@
+.header_area{
+	background-color: rgba(14, 2, 35, 0.9);
+}
+.justify-content{
+	margin: 120px 0px 30px 0px;
+} 
+
+/*
+ * Job posts
+ */
+
+.job-post {
+  margin-bottom: 4rem;
+}
+.job-post-title {
+  margin-bottom: .25rem;
+  font-size: 2.5rem;
+}
+.job-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
